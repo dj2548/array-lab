@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repo 2\array_lab\array_lab\bin\Debug\net6.0\array_lab.exe
+C:\Users\Somber\source\repo 2\array_lab\array_lab\bin\Debug\net6.0\array_lab.deps.json
+C:\Users\Somber\source\repo 2\array_lab\array_lab\bin\Debug\net6.0\array_lab.runtimeconfig.json
+C:\Users\Somber\source\repo 2\array_lab\array_lab\bin\Debug\net6.0\array_lab.dll
+C:\Users\Somber\source\repo 2\array_lab\array_lab\bin\Debug\net6.0\array_lab.pdb
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.AssemblyInfo.cs
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.dll
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\refint\array_lab.dll
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.pdb
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\array_lab.genruntimeconfig.cache
+C:\Users\Somber\source\repo 2\array_lab\array_lab\obj\Debug\net6.0\ref\array_lab.dll
